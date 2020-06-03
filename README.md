@@ -12,3 +12,5 @@ Libraries needed :
 Usage :
 python segment.py || 
 python recognize.py
+
+Link for Full Tutorial : https://community.letsupgrade.in/post/hand-gesture-recognition-using-python-and-opencv-5ed773d70151ee1856ae5e05
