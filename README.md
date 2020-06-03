@@ -10,5 +10,5 @@ Libraries needed :
 (iv) sklearn
 
 Usage :
-python segment.py
+python segment.py || 
 python recognize.py
